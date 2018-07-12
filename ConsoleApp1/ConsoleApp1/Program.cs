@@ -15,9 +15,8 @@ namespace ConsoleApp1
 
 
 
-            //NetPipeStyleUriParser cjanges
-            //DSFCSSCFSC
-            //dwdwdqwdqwd
+            //Create paging
+            //+ some fix for paging
         }
     }
 }
